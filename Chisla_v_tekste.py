@@ -1,0 +1,20 @@
+S = input()
+num0 = S.count('0')
+num1 = S.count('1')
+num2 = S.count('2')
+num3 = S.count('3')
+num4 = S.count('4')
+num5 = S.count('5')
+num6 = S.count('6')
+num7 = S.count('7')
+num8 = S.count('8')
+num9 = S.count('9')
+num2*=2
+num3*=3
+num4*=4
+num5*=5
+num6*=6
+num7*=7
+num8*=8
+num9*=9
+print(num1+num2+num3+num4+num5+num6+num7+num8+num9)
