@@ -23,4 +23,5 @@ else:
         if B*Taxi>=A:
             Bus+=1
             Taxi=0
+#fddjgisofgjsfogjosif
 print(Bus, Taxi, sep=' ')
